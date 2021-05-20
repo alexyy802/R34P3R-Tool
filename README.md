@@ -1,5 +1,5 @@
 # R34P3R-Tool
-A ddos tool made in bash 
+A ddos tool made in bash For Termux in android
 *************************
 MADE BY : R34P3R
 *************************
@@ -24,16 +24,15 @@ NOTE : the image i used is from google so XD
 How to use 
 **************************
 
-*************************
 Termux 
-*************************
 
 1, apt update && apt upgrade
+
 2 pkg install git
+
 3 git clone https://github.com/alexyy802/R34P3R-Tool/
+
 4 cd R34P3R-Tool
+
 5 bash R34P3R.sh 
-6 do as the system says
-****************************
-enjoy !
 ****************************
