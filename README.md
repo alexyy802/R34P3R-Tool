@@ -13,9 +13,27 @@ if you clone this gitnhub repo please dont destroy anything but modify it into u
 
 please note that this tool can cause some serius damages so please remember YOU are responsible for your own actions i do not take responsiblity on what the damages that you caused by this tool im only posting it for educational purposes 
 
+This tool is for : Termux (more coming soon)
+
 credits made by : alexyy aka R34P3R 
 my socials : https://omlet.gg/profile/alexy_kyu
 
 NOTE : the image i used is from google so XD
 
+**************************
+How to use 
+**************************
+
+*************************
+Termux 
+*************************
+
+1, apt update && apt upgrade
+2 pkg install git
+3 git clone https://github.com/alexyy802/R34P3R-Tool/
+4 cd R34P3R-Tool
+5 bash R34P3R.sh 
+6 do as the system says
+****************************
 enjoy !
+****************************
