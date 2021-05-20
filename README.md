@@ -1,0 +1,17 @@
+# R34P3R-Tool
+A ddos tool made in bash 
+*************************
+MADE BY : R34P3R
+*************************
+
+
+this tool is made in bash if you copy paste the codes and not give me credits ill find you litterally 
+
+if you clone this gitnhub repo please dont destroy anything but modify it into ur own tool (still have to give me credits tho Lol) 
+
+please note that this tool can cause some serius damages so please remember YOU are responsible for your own actions i do not take responsiblity on what the damages that you caused by this tool im only posting it for educational purposes 
+
+credits made by : alexyy aka R34P3R 
+my socials : https://omlet.gg/profile/alexy_kyu
+
+enjoy !
