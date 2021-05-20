@@ -4,6 +4,8 @@ A ddos tool made in bash
 MADE BY : R34P3R
 *************************
 
+![image](https://user-images.githubusercontent.com/81732383/118963927-2c538680-b991-11eb-92ec-442d2725fde8.png)
+
 
 this tool is made in bash if you copy paste the codes and not give me credits ill find you litterally 
 
@@ -13,5 +15,7 @@ please note that this tool can cause some serius damages so please remember YOU 
 
 credits made by : alexyy aka R34P3R 
 my socials : https://omlet.gg/profile/alexy_kyu
+
+NOTE : the image i used is from google so XD
 
 enjoy !
